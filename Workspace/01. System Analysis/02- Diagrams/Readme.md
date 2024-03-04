@@ -8,4 +8,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<h2>Physical ERD Tables</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+![image (2)](https://github.com/SemoMoh/Hospital-database-system-project/assets/105177075/4901114d-9c0f-4844-b0f6-194c61f4f727)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
